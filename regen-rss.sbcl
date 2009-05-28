@@ -1,0 +1,2 @@
+#!/bin/sh
+/usr/local/bin/sbcl --noinform --disable-debugger --load /Users/grandchallengeweb/src/darpa-gc-forum-scraper/regen-rss.lisp

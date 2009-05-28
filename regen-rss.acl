@@ -1,0 +1,4 @@
+#!/bin/sh
+/usr/local/bin/acl70/alisp -batch -q -L /Users/grandchallengeweb/src/darpa-gc-forum-scraper/regen-rss.lisp -kill
+
+
